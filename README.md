@@ -70,7 +70,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
     npm run dev
  ```   
 
-Build for production:
+4. **Build for production:**
 
 Bash
 npm run build
