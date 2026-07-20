@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+/* Custom Emergency Pulse for Overdue Vehicles */
+@keyframes emergency-pulse {
+  0%, 100% {
+    background-color: rgba(239, 68, 68, 0.2);
+    border-color: rgba(239, 68, 68, 0.6);
+    box-shadow: 0 0 0px rgba(239, 68, 68, 0);
+  }
+  50% {
+    background-color: rgba(239, 68, 68, 0.4);
+    border-color: rgba(239, 68, 68, 1);
+    box-shadow: 0 0 12px rgba(239, 68, 68, 0.3);
+  }
+}
+
+.animate-emergency {
+  animation: emergency-pulse 1.5s infinite ease-in-out;
+}
