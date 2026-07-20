@@ -72,7 +72,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 4. **Build for production:**
 
-Bash
+```bash
 npm run build
 Deploy updates live to GitHub Pages:
 
