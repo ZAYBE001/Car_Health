@@ -68,6 +68,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 ```Bash
     npm run dev
+ ```   
 
 Build for production:
 
