@@ -75,7 +75,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 ```bash
 npm run build
 ```
-Deploy updates live to GitHub Pages:
+5. **Deploy updates live to GitHub Pages:**
 
 Bash
 npm run deploy
