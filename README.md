@@ -56,3 +56,24 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
    ```bash
    git clone [https://github.com/ZAYBE001/Car_Health.git](https://github.com/ZAYBE001/Car_Health.git)
    cd Car_Health
+
+ 2.  **Install dependencies:**
+
+```bash
+   npm install 
+   
+```
+   
+ 3. **Start the local development server:**
+
+```Bash
+    npm run dev
+
+Build for production:
+
+Bash
+npm run build
+Deploy updates live to GitHub Pages:
+
+Bash
+npm run deploy
