@@ -62,4 +62,11 @@ export const maintenanceRules = {
     airFilter: "Part No: 17801-21050",
     serviceInterval: 10000, // Due every 10,000 km
   },
+  "Nissan Altima": {
+    oilType: "5W-30 Synthetic Blend",
+    oilFilter: "Part No: 15208-65F0A",
+    airFilter: "Part No: 16546-65F0A",
+    serviceInterval: 10000, // Due every 10,000 km
+  },
+  "Mitsubishi Lancer": {
 };
