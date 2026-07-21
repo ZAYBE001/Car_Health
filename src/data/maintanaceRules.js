@@ -55,7 +55,7 @@ export const maintenanceRules = {
     oilFilter: "Part No: 15400-PLM-A02",
     airFilter: "Part No: 17220-RB0-003",
     serviceInterval: 10000, // Due every 10,000 km
-  }
+  },
   "toyota supra": {
     oilType: "0W-20 Full Synthetic",
     oilFilter: "Part No: 90915-YZZN1",
