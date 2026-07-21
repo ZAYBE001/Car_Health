@@ -69,4 +69,15 @@ export const maintenanceRules = {
     serviceInterval: 10000, // Due every 10,000 km
   },
   "Mitsubishi Lancer": {
+    oilType: "0W-20 Synthetic",
+    oilFilter: "Part No: MD153164",
+    airFilter: "Part No: MN151155",
+    serviceInterval: 10000, // Due every 10,000 km
+  },
+  "Mazda CX-5": {
+    oilType: "0W-20 Synthetic",
+    oilFilter: "Part No: PE01-14-302A",
+    airFilter: "Part No: P501-13-3A0",
+    serviceInterval: 10000, // Due every 10,000 km
+  },
 };
