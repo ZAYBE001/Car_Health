@@ -14,7 +14,7 @@ export default function ServiceDashboard({ carSpecs, currentMileage, lastService
     );
   }
 
-  // 🧮 Core Maintenance Math
+  //  Core Maintenance Math
   const targetNextService = lastServiceMileage + carSpecs.serviceInterval;
   const kmRemaining = targetNextService - currentMileage;
   
@@ -95,7 +95,7 @@ export default function ServiceDashboard({ carSpecs, currentMileage, lastService
           </li>
         </ul>
       </div>
-      {/* 📋 NEW: Mechanic Briefing Note Section */}
+      {/*  NEW: Mechanic Briefing Note Section */}
       {mechanicNotes.trim() && (
         <div className="mt-4 p-4 bg-yellow-500/5 border border-yellow-500/20 rounded-xl">
           <h4 className="text-xs font-bold uppercase text-yellow-500/80 tracking-wider mb-1.5 flex items-center gap-1.5">

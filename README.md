@@ -10,13 +10,7 @@ An interactive dashboard designed to monitor vehicle health, compute service mai
 
 ---
 
-## ✨ Features (Shipped)
 
-* 📊 **Dynamic Mileage & Capacity Calculation:** Calculates service intervals, overdue distance, and percentage of capacity used based on vehicle specs.
-* 🛠️ **Model-Specific Parts Logistics:** Automatically pulls recommended engine oil types, oil filter part numbers, and air filter specifications.
-* 📋 **Driver Briefing Notes:** Allows vehicle owners to send custom service requests or describe specific issues directly to technicians.
-* 🎨 **Responsive Dark-Mode Interface:** Modern, full-width UI built with Tailwind CSS for optimal viewing across desktop and mobile devices.
-* 🚨 **Emergency Status Indicators:** Visual indicators for overdue maintenance intervals.
 
 ---
 
