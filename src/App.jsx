@@ -15,7 +15,7 @@ export default function App() {
   return (
     <div className="relative min-h-screen bg-gray-950 text-gray-100 p-6 flex flex-col items-center overflow-x-hidden">
       
-      {/* 🚀 ReactBitsHyperspeed Background Canvas */}
+      {/* 🚀 ReactBits Hyperspeed Background Canvas */}
       <Hyperspeed />
 
       {/* 🚗 Foreground UI Container */}
