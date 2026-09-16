@@ -47,7 +47,7 @@ export default function ServiceDashboard({ carSpecs, currentMileage, lastService
         {statusTitle}
       </div>
 
-      {/* MileageMetrics Grid */}
+      {/* Mileage Metrics Grid */}
       <div className="grid grid-cols-2 gap-4">
         <div className="bg-gray-700/50 p-4 rounded-xl border border-gray-700 text-center">
           <p className="text-xs text-gray-400 uppercase font-semibold">Next Service At</p>
