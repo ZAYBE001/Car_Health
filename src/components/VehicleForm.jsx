@@ -60,7 +60,7 @@ export default function VehicleForm({
           />
         </div>
 
-        {/*NEW: MechanicNotes Field*/}
+        {/*NEW: Mechanic Notes Field*/}
         <div>
           <label className="block text-xs font-semibold uppercase text-gray-400 mb-2">
             Special Instructions / Driver Notes
