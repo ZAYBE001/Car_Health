@@ -47,7 +47,8 @@ export default function VehicleForm({
           />
         </div>
 
-        {/* Last Service Mileage Input*/}
+        {/* Last Service
+        Mileage Input*/}
         <div>
           <label className="block text-xs font-semibold uppercase text-gray-400 mb-2">
             Last Service Odometer Reading (KM)
