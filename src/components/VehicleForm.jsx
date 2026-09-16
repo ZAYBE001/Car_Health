@@ -34,7 +34,7 @@ export default function VehicleForm({
           </select>
         </div>
 
-        {/* Current MileageInput */}
+        {/* Current Mileage Input */}
         <div>
           <label className="block text-xs font-semibold uppercase text-gray-400 mb-2">
             Current Odometer Reading (KM)
