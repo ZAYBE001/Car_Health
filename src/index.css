@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-/* Custom EmergencyPulse for Overdue Vehicles */
+/* Custom Emergency Pulse for Overdue Vehicles */
 @keyframes emergency-pulse {
   0%, 100% {
     background-color: rgba(239, 68, 68, 0.2);
