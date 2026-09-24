@@ -2,7 +2,7 @@ import { useState } from "react";
 import { maintenanceRules } from "./data/maintanaceRules.js";
 import VehicleForm from "./components/VehicleForm";
 import ServiceDashboard from "./components/ServiceDashboard";
-import MechanicDashboard from "./components/mechanic/MechanicDashboard"; // 🔑 Import Mechanic Dashboard
+import MechanicDashboard from "./components/mechanic/MechanicDashboard"; //  Import Mechanic Dashboard
 import Hyperspeed from "./components/Hyperspeed";
 
 export default function App() {
