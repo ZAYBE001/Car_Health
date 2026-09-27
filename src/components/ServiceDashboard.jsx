@@ -1,4 +1,4 @@
-import React from 'react';
+
 
 export default function ServiceDashboard({ carSpecs, currentMileage, lastServiceMileage, mechanicNotes }) {
   // If the user hasn't typed anything yet, show a clean onboarding message
