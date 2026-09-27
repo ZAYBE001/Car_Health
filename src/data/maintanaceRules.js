@@ -82,24 +82,28 @@ export const maintenanceRules = {
     oilType: "0W-20 Synthetic",
     oilFilter: "Part No: MD153164",
     airFilter: "Part No: MN151155",
+    sparkPlug: "Part No: 90919-01234",
     serviceInterval: 10000, // Due every 10,000 km
   },
   "Mazda CX-5": {
     oilType: "0W-20 Synthetic",
     oilFilter: "Part No: PE01-14-302A",
     airFilter: "Part No: P501-13-3A0",
+    sparkPlug: "Part No: 90919-01234",
     serviceInterval: 10000, // Due every 10,000 km
   },
   "Honda CR-V": {
     oilType: "0W-20 Full Synthetic",
     oilFilter: "Part No: 15400-PLM-A02",
     airFilter: "Part No: 17220-RB0-003",
+    sparkPlug: "Part No: 90919-01234",
     serviceInterval: 10000, // Due every 10,000 km
   },
   "Nissan Rogue": {
     oilType: "5W-30 Synthetic Blend",
     oilFilter: "Part No: 15208-65F0A",
     airFilter: "Part No: 16546-65F0A",
+    sparkPlug: "Part No: 90919-01234",
     serviceInterval: 10000, // Due every 10,000 km
   },
 };

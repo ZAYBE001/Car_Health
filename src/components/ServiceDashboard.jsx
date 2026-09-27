@@ -93,6 +93,12 @@ export default function ServiceDashboard({ carSpecs, currentMileage, lastService
             <span className="text-gray-400">Air Filter Reference:</span>
             <span className="font-mono text-blue-300">{carSpecs.airFilter}</span>
           </li>
+          <li className="flex justify-between p-2.5 bg-gray-950/30 rounded-lg">
+            <span className="text-gray-400">Spark Plug Reference:</span>
+            <span className="font-mono text-blue-300">{carSpecs.sparkPlug}</span>
+          </li>
+          
+          
         </ul>
       </div>
       {/*  NEW: Mechanic Briefing Note Section */}
