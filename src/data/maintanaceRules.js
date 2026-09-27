@@ -19,18 +19,21 @@ export const maintenanceRules = {
     oilType: "0W-20 Synthetic",
     oilFilter: "Part No: PE01-14-302A",
     airFilter: "Part No: P501-13-3A0",
+    sparkPlug: "Part No: 90919-01234",
     serviceInterval: 10000,
   },
   "Honda Fit": {
     oilType: "0W-20 Full Synthetic",
     oilFilter: "Part No: 15400-PLM-A02",
     airFilter: "Part No: 17220-RB0-003",
+    sparkPlug: "Part No: 90919-01234",
     serviceInterval: 10000,
   },
   "Nissan Note": {
     oilType: "5W-30 Synthetic Blend",
     oilFilter: "Part No: 15208-65F0A", 
     airFilter: "Part No: 16546-65F0A",
+    
     serviceInterval: 10000,
   },
   "Mitsubishi Mirage": {
