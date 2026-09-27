@@ -33,13 +33,14 @@ export const maintenanceRules = {
     oilType: "5W-30 Synthetic Blend",
     oilFilter: "Part No: 15208-65F0A", 
     airFilter: "Part No: 16546-65F0A",
-    
+    sparkPlug: "Part No: 90919-01234",
     serviceInterval: 10000,
   },
   "Mitsubishi Mirage": {
     oilType: "0W-20 Synthetic",
     oilFilter: "Part No: MD153164",
     airFilter: "Part No: MN151155",
+    sparkPlug: "Part No: 90919-01234",
     serviceInterval: 10000,
   },
  "subaru impreza": {
