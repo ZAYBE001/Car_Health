@@ -47,6 +47,7 @@ export const maintenanceRules = {
     oilType: "5W-30 Full Synthetic",
     oilFilter: "Part No: 15208AA160",
     airFilter: "Part No: 16546AA12A",
+    sparkPlug: "Part No: 90919-01234",
     serviceInterval: 7500,  // Due every 7,500 km
   },
   "Toyota Corolla": {
