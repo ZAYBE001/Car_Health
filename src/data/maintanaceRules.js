@@ -75,6 +75,7 @@ export const maintenanceRules = {
     oilType: "5W-30 Synthetic Blend",
     oilFilter: "Part No: 15208-65F0A",
     airFilter: "Part No: 16546-65F0A",
+    sparkPlug: "Part No: 90919-01234",
     serviceInterval: 10000, // Due every 10,000 km
   },
   "Mitsubishi Lancer": {
