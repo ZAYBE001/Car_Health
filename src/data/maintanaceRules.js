@@ -54,6 +54,7 @@ export const maintenanceRules = {
     oilType: "0W-20 Full Synthetic",
     oilFilter: "Part No: 90915-YZZN1",
     airFilter: "Part No: 17801-21050",
+    sparkPlug: "Part No: 90919-01234",
     serviceInterval: 10000, // Due every 10,000 km
   },
   "Honda Civic": {
