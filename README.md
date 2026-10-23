@@ -83,5 +83,3 @@ npm run build
 
 ```Bash
 npm run deploy
-
-dfgyd
