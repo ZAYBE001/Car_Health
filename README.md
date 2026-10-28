@@ -83,4 +83,4 @@ npm run build
 
 ```Bash
 npm run deploy
-i just pray god to 
+i just pray 
