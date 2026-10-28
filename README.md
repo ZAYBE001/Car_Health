@@ -83,3 +83,4 @@ npm run build
 
 ```Bash
 npm run deploy
+i just pray god to herr my prayers to land an intrship 
